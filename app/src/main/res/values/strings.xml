@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PrimerAppOctavio</string>
+    <string name="saludo">Hola Mundo</string>
+    <string name="dentro">Dentro del linear Layout</string>
+</resources>
